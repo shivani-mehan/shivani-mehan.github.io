@@ -1,4 +1,4 @@
-// // Animate Smooth Scroll
+// Animate Smooth Scroll
 $('#view-resume').on('click', function() {
   const resume = $('#resume').position().top;
 
