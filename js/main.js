@@ -1,10 +1,10 @@
 // Animate Smooth Scroll
-$('#view-resume').on('click', function() {
-  const resume = $('#resume').position().top;
+$('#view-about').on('click', function() {
+  const about = $('#about').position().top;
 
   $('html, body').animate(
     {
-      scrollTop: resume
+      scrollTop: about
     },
     900
   );
