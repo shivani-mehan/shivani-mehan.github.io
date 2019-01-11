@@ -340,8 +340,6 @@ a:after {
   padding: 0;
 }
 
-
-/* Screen Sizes below 500px 
 @media(max-width: 500px){
   #header {
     display:flex;
@@ -349,9 +347,7 @@ a:after {
     flex: 0 1 100vw;
   }
   
-  
 }
-*/
 
 
 
